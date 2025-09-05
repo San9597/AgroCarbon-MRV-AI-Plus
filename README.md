@@ -52,3 +52,8 @@ Dark/Light mode toggle 🌗
 Gamification badges 🏆
 
 PWA-ready (installable web app).
+
+Project Model : 
+
+<img width="1882" height="869" alt="Screenshot 2025-09-05 213005" src="https://github.com/user-attachments/assets/83f3357c-18d0-42b1-b2cf-4881f167324a" />
+
